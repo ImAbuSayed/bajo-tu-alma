@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bajo-tu-alma/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Bajo tu alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-tu-alma/) |
+| **Get License** | [License this song: Bajo tu alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-tu-alma/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quiero perderme esta noche bajo tu alma
+> Tú me miras lento y mi pulso se desarma
+> You know I got the vibe, mami, pierde la calma
+> La disco está a oscuras, encendemos la llama
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
