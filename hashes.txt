@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bajo tu alma
+
+This log tracks the cryptographic history and versioning for the song **Bajo tu alma** (bajo-tu-alma).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T13:46:44.975067 | `v1` | `45049a343b9149da2b234ca1c0511ec5ed57abc2186b4737249cad64cf81bc13` | `294aad314cfc7902e590d0393cbf0919732a0971bb4b788931e0d37c3dd81fcb` | `2026-06-24_bajo-tu-alma-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

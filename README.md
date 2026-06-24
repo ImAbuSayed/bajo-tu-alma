@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bajo-tu-alma/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Bajo tu alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-tu-alma/) |
+| **Get License** | [Secure Licensing Rights for Bajo tu alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-tu-alma/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `45049a343b9149da2b234ca1c0511ec5ed57abc2186b4737249cad64cf81bc13` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
